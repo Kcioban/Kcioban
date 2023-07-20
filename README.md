@@ -1,4 +1,6 @@
-<h2 align="center">Hi! My name is Kayky Cioban Nakagawa</h2>
+<h2 align="center">Hi! My name is / Olá! Meu nome é</h2>
+<h2 align="center">Kayky Cioban Nakagawa</h2>
+<h2 align="center">Below you can see my stats! / Abaixo você pode ver minhas estatisticas!</h2>
 
   <br></br>
 <div align="center">
@@ -10,5 +12,3 @@
 <div align="center">
   <a href="https://linktr.ee/Kcioban">
 </div>
-
-
