@@ -10,5 +10,5 @@
 </div>
   <br>
 <div align="center">
-  <a href="https://linktr.ee/Kcioban">
+  <a href="https://linktr.ee/KaykyCiobanNakagawa">
 </div>
