@@ -1,4 +1,4 @@
-<h2 align="center"> <i> Hi! My name is Kayky, this is my stats! </i> </h2>
+<h2 align="center"> <i> Hey! My name is Kayky, these are my stats! </i> </h2>
 
   <br></br>
 <div align="center">
