@@ -3,9 +3,11 @@
 <!--                    HEADER / BANNER                    -->
 <!-- ===================================================== -->
 
+<!--
 <div align="center">
   <img src="./assets/github-banner.png" width="100%" alt="Kayky Cioban - IT Operations, IAM, Data and Automation"/>
 </div>
+-->
 
 <br/>
 
@@ -28,100 +30,28 @@
   <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 </p>
 
----
 
 <!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
-<!-- ===================================================== -->
-
-<table border="0">
-<tr>
-<td width="58%" valign="top">
-
-## 👨‍💻 About Me
-
-IT professional with experience in global environments, working with enterprise systems, identity management, and technical support.
-
-I enjoy solving problems, automating processes, and turning data into insights using technology.
-
-- 🌎 Experience supporting international teams in a multinational environment.
-- 🔐 Working with Identity & Access Management (IAM), Active Directory, and Microsoft Entra ID.
-- 🏢 Enterprise systems: TOTVS Protheus and Fluig.
-- 📊 Using SQL for data analysis, reporting, and troubleshooting.
-- 🐍 Exploring automation with Python and PowerShell.
-- 🚀 Always learning about infrastructure, cybersecurity, and technology.
-
-</td>
-<td width="42%" valign="top">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="165em"
-    src="https://github-stats-extended.vercel.app/api?username=Kcioban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="165em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kcioban&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&card_width=495"/>
-</div>
-
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================================================== -->
-<!--                   TECHNOLOGIES                        -->
+<!--                 TECHNOLOGIES & TOOLS                  -->
 <!-- ===================================================== -->
 
 ## 🛠️ Technologies & Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Current Stack
 
-### 💻 Programming & Data
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,powershell,windows,linux,git)](https://skillicons.dev)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-</p>
+**Enterprise & Identity:** Active Directory · Microsoft Entra ID · Intune · Defender · Exchange · Purview
 
-### 🔐 Infrastructure & Identity
+**Databases:** SQL Server · Oracle
 
-<p>
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Entra-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+**Enterprise Systems:** TOTVS Protheus · Fluig
 
-</td>
-<td width="50%" valign="top">
+### Learning / Interests
 
-### 🏢 Enterprise Applications
+[![My Skills](https://skillicons.dev/icons?i=cpp,azure)](https://skillicons.dev)
 
-<p>
-  <img src="https://img.shields.io/badge/TOTVS%20Protheus-0066CC?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fluig-0066CC?style=flat-square&logoColor=white"/>
-</p>
-
-### ☁️ Microsoft Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoftintune&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Defender-0078D4?style=flat-square&logo=microsoftdefender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exchange-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Purview-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+**Areas of Interest:** Cloud Infrastructure · Cybersecurity · Identity Governance · IT Automation
 
 ---
 
