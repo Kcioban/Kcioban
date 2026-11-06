@@ -30,29 +30,17 @@
   <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 </p>
 
-
 <!-- ===================================================== -->
 <!--                 TECHNOLOGIES & TOOLS                  -->
 <!-- ===================================================== -->
 
-## 🛠️ Technologies & Tools
-
 ### Current Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,powershell,windows,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,powershell,windows,linux,git,azure&perline=9)](https://skillicons.dev)
 
-**Enterprise & Identity:** Active Directory · Microsoft Entra ID · Intune · Defender · Exchange · Purview
+### Learning / Interest
 
-**Databases:** SQL Server · Oracle
-
-**Enterprise Systems:** TOTVS Protheus · Fluig
-
-### Learning / Interests
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,azure)](https://skillicons.dev)
-
-**Areas of Interest:** Cloud Infrastructure · Cybersecurity · Identity Governance · IT Automation
-
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws&perline=4)](https://skillicons.dev)
 
 <!-- ===================================================== -->
 <!--                       CONNECT                         -->
