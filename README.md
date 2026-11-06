@@ -57,9 +57,10 @@ I enjoy solving problems, automating processes, and turning data into insights u
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Kcioban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kcioban&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="165em"
+    src="https://github-stats-extended.vercel.app/api?username=Kcioban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="165em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kcioban&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 </td>
