@@ -10,7 +10,7 @@
 <br/>
 
 <h1 align="center">
-  Kayky Cioban
+  Kayky Cioban Nakagawa
 </h1>
 
 <h3 align="center">
