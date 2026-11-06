@@ -60,8 +60,9 @@ I enjoy solving problems, automating processes, and turning data into insights u
   <img height="165em"
     src="https://github-stats-extended.vercel.app/api?username=Kcioban&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
   <img height="165em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kcioban&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kcioban&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&card_width=495"/>
 </div>
+
 
 </td>
 </tr>
