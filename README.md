@@ -49,9 +49,6 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Kcioban">
-    <img src="https://img.shields.io/badge/GitHub-Kcioban-181717?style=for-the-badge&logo=github"/>
-  </a>
   <a href="https://linktr.ee/KaykyCiobanNakagawa">
     <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
